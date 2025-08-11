@@ -5,7 +5,7 @@
   "description": "PruebasApi",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "harp ./public ./build",
     "deploy": "gh-pages -d build",
     "start": "json-server --watch public/database.json",
     "test": "echo \"Error: no test specified\" && exit 1"
