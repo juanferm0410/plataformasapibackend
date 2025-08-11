@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "predeploy": "harp ./public ./build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "json-server --watch public/database.json"
   },
   "repository": {
