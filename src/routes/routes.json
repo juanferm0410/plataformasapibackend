@@ -1,4 +1,4 @@
 {
-    "/api/v1/user": "/user",
-    "/api/v1/user/:id": "/user/:id"
+    "/api/v1/users": "/users",
+    "/api/v1/users/:id": "/users/:id"
 }
