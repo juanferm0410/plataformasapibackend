@@ -15,16 +15,9 @@
       "id": "3"
     },
     {
-      "id": "4",
-      "user": {
-        "name": "manuel",
-        "id": 1064
-      }
-    },
-    {
       "user": {
         "name": "alejandro",
-        "id": 1069
+        "id": 1065
       },
       "id": "5"
     }
